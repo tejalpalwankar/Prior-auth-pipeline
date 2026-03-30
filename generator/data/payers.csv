@@ -1,0 +1,9 @@
+payer_id,payer_name,avg_response_hrs,base_denial_rate
+PAY001,UnitedHealthcare,48,0.18
+PAY002,Aetna,56,0.22
+PAY003,Blue Cross Blue Shield,40,0.15
+PAY004,Cigna,88,0.3
+PAY005,Humana,96,0.35
+PAY006,Centene,110,0.4
+PAY007,Molina Healthcare,36,0.12
+PAY008,Kaiser Permanente,28,0.08

@@ -1,0 +1,9 @@
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+*.duckdb
+.env
+data/*.duckdb
+.DS_Store
+models/pa_model.pkl

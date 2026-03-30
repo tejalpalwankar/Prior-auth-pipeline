@@ -1,0 +1,31 @@
+procedure_code,procedure_description,procedure_specialty,high_denial_flag,total_requests,total_denied,denial_rate_pct,avg_approval_hrs,total_sla_breaches,top_denial_reason
+27130,Total Hip Replacement,Orthopedics,True,1669,647,38.77,56.82,517,MEDICAL_NECESSITY
+72148,MRI Lumbar Spine,Radiology,True,1612,623,38.65,57.55,516,MEDICAL_NECESSITY
+64483,Lumbar Epidural Injection,Pain Mgmt,True,1624,624,38.42,57.31,532,MEDICAL_NECESSITY
+70553,MRI Brain with Contrast,Radiology,True,1647,620,37.64,56.49,499,MEDICAL_NECESSITY
+27447,Total Knee Replacement,Orthopedics,True,1659,624,37.61,57.28,497,MEDICAL_NECESSITY
+93454,Coronary Angiography,Cardiology,True,1720,637,37.03,58.21,551,MEDICAL_NECESSITY
+J1745,Infliximab (Remicade) Inject,Rheumatology,True,1640,603,36.77,58.87,526,MEDICAL_NECESSITY
+96413,Chemotherapy IV Infusion,Oncology,True,1632,597,36.58,55.95,483,MEDICAL_NECESSITY
+J3490,Unclassified Biologics,Rheumatology,True,1676,612,36.52,56.95,499,MEDICAL_NECESSITY
+J0135,Adalimumab (Humira) Inject,Rheumatology,True,1660,605,36.45,56.82,510,MEDICAL_NECESSITY
+99223,Initial Hospital Care,Primary Care,False,1676,426,25.42,58.25,561,MISSING_DOCS
+99213,Office Visit Level 3,Primary Care,False,1718,420,24.45,58.07,541,MISSING_DOCS
+45378,Colonoscopy Diagnostic,Gastroenterology,False,1678,408,24.31,57.86,541,MISSING_DOCS
+36415,Routine Venipuncture,Lab,False,1642,382,23.26,56.37,508,MISSING_DOCS
+43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,False,1665,386,23.18,57.03,526,MISSING_DOCS
+77067,Screening Mammography,Radiology,False,1693,392,23.15,56.91,501,MISSING_DOCS
+71250,CT Thorax Diagnostic,Radiology,False,1714,389,22.7,57.33,525,MISSING_DOCS
+93306,Echocardiogram,Cardiology,False,1757,395,22.48,58.54,580,MISSING_DOCS
+70450,CT Head without Contrast,Radiology,False,1697,379,22.33,57.49,532,MISSING_DOCS
+80053,Comprehensive Metabolic Panel,Lab,False,1699,379,22.31,55.5,513,MISSING_DOCS
+47562,Laparoscopic Cholecystectomy,Surgery,False,1561,347,22.23,56.73,463,MISSING_DOCS
+27570,Closed Treatment Knee Disloc,Orthopedics,False,1678,369,21.99,58.99,561,MISSING_DOCS
+58150,Total Abdominal Hysterectomy,GYN,False,1637,360,21.99,56.93,530,NOT_COVERED
+J2550,Promethazine HCl Injection,Emergency,False,1664,365,21.94,56.44,496,MISSING_DOCS
+29827,Shoulder Arthroscopy,Orthopedics,False,1629,357,21.92,57.71,501,MISSING_DOCS
+90837,Psychotherapy 60 min,Behavioral,False,1670,363,21.74,57.71,521,MISSING_DOCS
+90791,Psychiatric Diagnostic Eval,Behavioral,False,1677,364,21.71,56.85,523,MEDICAL_NECESSITY
+43246,Upper GI Endoscopy w/ PEG,Gastroenterology,False,1618,351,21.69,57.39,494,MISSING_DOCS
+93000,Electrocardiogram,Cardiology,False,1736,375,21.6,56.52,535,MISSING_DOCS
+27245,Femur Fracture Treatment,Orthopedics,False,1652,342,20.7,55.99,496,MISSING_DOCS

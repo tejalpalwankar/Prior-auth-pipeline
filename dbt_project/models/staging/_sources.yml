@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: "Raw tables loaded from synthetic PA CSV files"
+    tables:
+      - name: pa_requests
+        description: "50k synthetic prior authorization requests"
+      - name: payers
+        description: "8 insurance payers with response time and denial rate benchmarks"
+      - name: procedures
+        description: "30 CPT procedure codes with specialty and denial risk flag"
+      - name: providers
+        description: "50 fictional healthcare providers with NPI and specialty"

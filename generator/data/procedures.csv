@@ -1,0 +1,31 @@
+procedure_code,description,specialty,high_denial
+27447,Total Knee Replacement,Orthopedics,True
+70553,MRI Brain with Contrast,Radiology,True
+72148,MRI Lumbar Spine,Radiology,True
+J0135,Adalimumab (Humira) Inject,Rheumatology,True
+27130,Total Hip Replacement,Orthopedics,True
+93306,Echocardiogram,Cardiology,False
+45378,Colonoscopy Diagnostic,Gastroenterology,False
+70450,CT Head without Contrast,Radiology,False
+99213,Office Visit Level 3,Primary Care,False
+90837,Psychotherapy 60 min,Behavioral,False
+43239,Upper GI Endoscopy w/ Biopsy,Gastroenterology,False
+27245,Femur Fracture Treatment,Orthopedics,False
+93000,Electrocardiogram,Cardiology,False
+71250,CT Thorax Diagnostic,Radiology,False
+J2550,Promethazine HCl Injection,Emergency,False
+96413,Chemotherapy IV Infusion,Oncology,True
+77067,Screening Mammography,Radiology,False
+29827,Shoulder Arthroscopy,Orthopedics,False
+64483,Lumbar Epidural Injection,Pain Mgmt,True
+J1745,Infliximab (Remicade) Inject,Rheumatology,True
+43246,Upper GI Endoscopy w/ PEG,Gastroenterology,False
+27570,Closed Treatment Knee Disloc,Orthopedics,False
+90791,Psychiatric Diagnostic Eval,Behavioral,False
+99223,Initial Hospital Care,Primary Care,False
+36415,Routine Venipuncture,Lab,False
+80053,Comprehensive Metabolic Panel,Lab,False
+93454,Coronary Angiography,Cardiology,True
+58150,Total Abdominal Hysterectomy,GYN,False
+47562,Laparoscopic Cholecystectomy,Surgery,False
+J3490,Unclassified Biologics,Rheumatology,True

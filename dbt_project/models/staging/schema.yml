@@ -1,0 +1,55 @@
+version: 2
+
+models:
+  - name: stg_pa_requests
+    description: "Cleaned and typed prior authorization requests"
+    columns:
+      - name: request_id
+        description: "Unique request identifier"
+        tests:
+          - unique
+          - not_null
+      - name: status
+        description: "Current status of the PA request"
+        tests:
+          - not_null
+          - accepted_values:
+              # dbt generic tests expect arguments to be nested under `arguments`
+              arguments:
+                values: ['approved', 'denied', 'pending']
+      - name: payer_id
+        tests:
+          - not_null
+      - name: procedure_code
+        tests:
+          - not_null
+      - name: submitted_at
+        tests:
+          - not_null
+
+  - name: stg_payers
+    description: "Insurance payer reference data"
+    columns:
+      - name: payer_id
+        tests:
+          - unique
+          - not_null
+      - name: payer_name
+        tests:
+          - not_null
+
+  - name: stg_procedures
+    description: "CPT procedure code reference data"
+    columns:
+      - name: procedure_code
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_providers
+    description: "Healthcare provider reference data"
+    columns:
+      - name: provider_npi
+        tests:
+          - unique
+          - not_null
