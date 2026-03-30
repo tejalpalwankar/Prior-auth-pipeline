@@ -281,7 +281,7 @@ A Random Forest classifier trained on 45,940 decided requests predicts approval 
 **[View live dashboard → Tableau Public](https://public.tableau.com/views/PriorAuthorizationAnalyticsCMS2024ComplianceDashboard/PriorAuthorizationAnalyticsCMSComplianceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### Tableau — Interactive compliance dashboard (8 charts, dynamic KPIs, payer filter)
-(https://github.com/user-attachments/assets/4ef3abf0-806c-41ed-8cc1-b97427b259ea)
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/dbbdd0fe-9111-4b98-9e77-ee524ce79c6c" />
 
 
 Dynamic KPIs: Total Requests · Overall Denial Rate · Avg Approval Time · SLA Breaches
