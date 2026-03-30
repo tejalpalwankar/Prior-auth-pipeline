@@ -237,20 +237,16 @@ A Random Forest classifier trained on 45,940 decided requests predicts approval 
 ## Screenshots
 
 ### SLA Monitor — Live breach alerts with KPI header
-![SLA Monitor KPI and Breach Alerts]
-<img width="1920" height="1537" alt="screencapture-localhost-8501-2026-03-30-05_12_00" src="https://github.com/user-attachments/assets/01baac2c-0e64-4039-8cbd-3412ab11cfb5" />
+<img width="1920" height="1411" alt="SLAWatch" src="https://github.com/user-attachments/assets/a078dc94-b76f-4d2e-9eee-9e8b6165e8ae" />
 
 ### SLA Monitor — Payer performance tab (avg approval time vs CMS 72hr limit)
-![Payer Performance Tab]
-<img width="1920" height="1411" alt="screencapture-localhost-8501-2026-03-30-05_12_43" src="https://github.com/user-attachments/assets/116f3242-f583-483d-adc2-8786223793c6" />
+<img width="1920" height="1716" alt="payerperformance" src="https://github.com/user-attachments/assets/0af15d47-0ea4-4cf5-93a0-e6432e44523a" />
 
 ### SLA Monitor — Procedure denial rate by CPT code
-![Procedure Denial Rate]
-<img width="1920" height="1716" alt="screencapture-localhost-8501-2026-03-30-05_12_54" src="https://github.com/user-attachments/assets/d3267c7f-5f1e-427d-9916-5c9db358a04a" />
+<img width="1920" height="2160" alt="procedureanalysis" src="https://github.com/user-attachments/assets/d8318344-d2e2-4088-9375-e9842d52e856" />
 
 ### SLA Monitor — Weekly SLA compliance trend with data table
-![SLA Compliance Trend]
-<img width="1920" height="1484" alt="screencapture-localhost-8501-2026-03-30-05_09_58" src="https://github.com/user-attachments/assets/8542f19b-9d84-4bce-9e55-b3957bdc42a9" />
+<img width="1920" height="1537" alt="ComplainceTrend" src="https://github.com/user-attachments/assets/f6c4f8df-b3aa-42b3-8f01-e8f0dcff5d25" />
 
 
 ### Submission Portal (`portal.py`)
@@ -261,10 +257,11 @@ A Random Forest classifier trained on 45,940 decided requests predicts approval 
 - Suggested documentation actions
 
 ### PA Submission Portal — Empty form ready for input
-![PA Portal Form](https://github.com/user-attachments/assets/4820812f-cf7f-4a42-a022-0fa89805f417)
+<img width="1920" height="1484" alt="submissionportalempty" src="https://github.com/user-attachments/assets/d5dc86c1-e7c7-44c9-814b-00822adeb880" />
+
 
 ### PA Submission Portal — ML prediction: 23% approval, Centene + Total Knee Replacement, 76% denial risk
-![PA Portal ML Result](https://github.com/user-attachments/assets/92a7febf-2140-4220-bd93-6918aff133ae)
+<img width="1920" height="1833" alt="submissionportaldata" src="https://github.com/user-attachments/assets/af90ca64-f3a8-45e0-98c8-d1a12df60ce0" />
 
 ---
 
@@ -284,7 +281,7 @@ A Random Forest classifier trained on 45,940 decided requests predicts approval 
 **[View live dashboard → Tableau Public](https://public.tableau.com/views/PriorAuthorizationAnalyticsCMS2024ComplianceDashboard/PriorAuthorizationAnalyticsCMSComplianceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### Tableau — Interactive compliance dashboard (8 charts, dynamic KPIs, payer filter)
-![Tableau Compliance Dashboard](https://github.com/user-attachments/assets/4ef3abf0-806c-41ed-8cc1-b97427b259ea)
+(https://github.com/user-attachments/assets/4ef3abf0-806c-41ed-8cc1-b97427b259ea)
 
 
 Dynamic KPIs: Total Requests · Overall Denial Rate · Avg Approval Time · SLA Breaches
